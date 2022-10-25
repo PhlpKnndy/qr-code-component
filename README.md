@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR Code Component
 
 This is my solution for the [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) (Newbie Challenge) on Frontend Mentor.
 
@@ -28,9 +28,9 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- **Solution URL -** [Frontend Mentor Solution](#)
+- **Solution URL -** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-oau2MIMtrC)
 
-- **Live Site URL -** [Live Site Preview (Vercel)](#)
+- **Live Site URL -** [Live Site Preview (Vercel)](https://qr-code-component-phlpknndy.vercel.app)
 
 ## My Process
 
