@@ -20,7 +20,7 @@ This is my solution for the [QR Code Component](https://www.frontendmentor.io/ch
 
 - **Difficulty -** `Newbie`
 
-The challenge is to build out this QR code component and get it looking as close to the design as possible.
+The challenge is to build out this QR Code Component and get it looking as close to the design as possible.
 
 ### Screenshot
 
