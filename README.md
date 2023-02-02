@@ -28,9 +28,9 @@ The challenge is to build out this QR Code Component and get it looking as close
 
 ### Links
 
-- **Solution URL -** [Frontend Mentor Solution](#)
+- **Solution URL -** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-A6TnSclP8-)
 
-- **Live Site URL -** [Live Site Preview (Vercel)](#)
+- **Live Site URL -** [Live Site Preview (Vercel)](https://qr-code-component-phlpknndy.vercel.app/)
 
 ## My Process
 
