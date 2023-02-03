@@ -1,47 +1,55 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: hsl(212, 45%, 89%);
-  text-align: center;
   font-family: "Outfit", sans-serif;
+}
+
+main {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .qr-card {
   width: 320px;
-  height: 500px;
-  margin: 155px auto;
+  padding: 0.94rem;
+  margin: 9.7em auto;
   background-color: hsl(0, 0%, 100%);
-  border: none;
-  border-radius: 15px;
+  padding: 1em;
+  display: block;
+  border-radius: 0.75em;
 }
 
 .qr-img {
-  width: 290px;
-  height: 290px;
-  margin: 15px auto;
-  border: none;
-  border-radius: 10px;
-  margin-bottom: 25px;
+  max-width: 100%;
+  border-radius: 0.75em;
 }
 
 .qr-heading {
-  font-size: 22px;
+  font-size: 1.3rem;
   font-weight: 700;
-  width: 255px;
-  margin: 0 auto;
+  max-width: 255px;
+  margin: 0.97em;
   color: hsl(218, 44%, 22%);
-  margin-bottom: 20px;
 }
 
 .qr-info {
-  font-size: 15px;
+  font-size: 0.94rem;
   color: hsl(220, 15%, 55%);
-  width: 255px;
-  margin: 0 auto;
+  max-width: 255px;
+  margin: 0 auto 1em;
+  text-align: center;
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 0.7rem;
   text-align: center;
 }
 
